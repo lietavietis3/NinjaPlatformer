@@ -1,0 +1,1285 @@
+fileFormatVersion: 2
+guid: 90c09b050d4b2734395fa07f9d494741
+timeCreated: 1523258697
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ninja_full_0
+    21300002: ninja_full_1
+    21300004: ninja_full_2
+    21300006: ninja_full_3
+    21300008: ninja_full_4
+    21300010: ninja_full_5
+    21300012: ninja_full_6
+    21300014: ninja_full_7
+    21300016: ninja_full_8
+    21300018: ninja_full_9
+    21300020: ninja_full_10
+    21300022: ninja_full_11
+    21300024: ninja_full_12
+    21300026: ninja_full_13
+    21300028: ninja_full_14
+    21300030: ninja_full_15
+    21300032: ninja_full_16
+    21300034: ninja_full_17
+    21300036: ninja_full_18
+    21300038: ninja_full_19
+    21300040: ninja_full_20
+    21300042: ninja_full_21
+    21300044: ninja_full_22
+    21300046: ninja_full_23
+    21300048: ninja_full_24
+    21300050: ninja_full_25
+    21300052: ninja_full_26
+    21300054: ninja_full_27
+    21300056: ninja_full_28
+    21300058: ninja_full_29
+    21300060: ninja_full_30
+    21300062: ninja_full_31
+    21300064: ninja_full_32
+    21300066: ninja_full_33
+    21300068: ninja_full_34
+    21300070: ninja_full_35
+    21300072: ninja_full_36
+    21300074: ninja_full_37
+    21300076: ninja_full_38
+    21300078: ninja_full_39
+    21300080: ninja_full_40
+    21300082: ninja_full_41
+    21300084: ninja_full_42
+    21300086: ninja_full_43
+    21300088: ninja_full_44
+    21300090: ninja_full_45
+    21300092: ninja_full_46
+    21300094: ninja_full_47
+    21300096: ninja_full_48
+    21300098: ninja_full_49
+    21300100: ninja_full_50
+    21300102: ninja_full_51
+    21300104: ninja_full_52
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ninja_full_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 576
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_1
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 575
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 576
+        width: 11
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 576
+        width: 9
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 576
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_5
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 576
+        width: 11
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 576
+        width: 8
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_7
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 576
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 576
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_9
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 576
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_10
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 512
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 512
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 512
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 512
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_14
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 512
+        width: 18
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_15
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 512
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_16
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 512
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 512
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_18
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 514
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_19
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 512
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 448
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_21
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 448
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_22
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 448
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_23
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 448
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 448
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_25
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 448
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_26
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 448
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 448
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_28
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 448
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_29
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 448
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_30
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 384
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 384
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 384
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_33
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 384
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_34
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 384
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 384
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_37
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 384
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_38
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 384
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_39
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 384
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 320
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 320
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 320
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 320
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_44
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 320
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_45
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 320
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_46
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_47
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 320
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_48
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 320
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_49
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 320
+        width: 20
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_50
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 256
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_51
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 258
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ninja_full_52
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 256
+        width: 45
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -118, y: -21}
+      - {x: -120, y: -31}
+      - {x: -120, y: -51}
+      - {x: -115, y: -57}
+      - {x: -107, y: -66}
+      - {x: -99, y: -66}
+      - {x: -99, y: -21}
+    - - {x: -27, y: -54}
+      - {x: -29, y: -56}
+      - {x: -29, y: -63}
+      - {x: -28, y: -66}
+      - {x: 20, y: -66}
+      - {x: 20, y: -57}
+      - {x: 2, y: -54}
+    - - {x: -73, y: -38}
+      - {x: -88, y: -38}
+      - {x: -95, y: -40}
+      - {x: -95, y: -56}
+      - {x: -74, y: -64}
+      - {x: -57, y: -64}
+      - {x: -56, y: -57}
+      - {x: -56, y: -45}
+      - {x: -57, y: -43}
+    - - {x: -157, y: 51}
+      - {x: -157, y: 12}
+      - {x: -147, y: -2}
+      - {x: -135, y: -2}
+      - {x: -132, y: 5}
+      - {x: -132, y: 34}
+      - {x: -140, y: 51}
+    - - {x: -118, y: 51}
+      - {x: -121, y: 48}
+      - {x: -121, y: 14}
+      - {x: -114, y: -2}
+      - {x: -106, y: -2}
+      - {x: -100, y: 9}
+      - {x: -100, y: 45}
+      - {x: -103, y: 51}
+    - - {x: -88, y: 48}
+      - {x: -88, y: 2}
+      - {x: -84, y: -2}
+      - {x: -71, y: -2}
+      - {x: -64, y: 1}
+      - {x: -64, y: 48}
+    - - {x: -53, y: 46}
+      - {x: -57, y: 37}
+      - {x: -57, y: 6}
+      - {x: -51, y: -2}
+      - {x: -39, y: -2}
+      - {x: -33, y: 13}
+      - {x: -33, y: 35}
+      - {x: -41, y: 46}
+    - - {x: -26, y: 48}
+      - {x: -26, y: 1}
+      - {x: -21, y: -2}
+      - {x: -12, y: -2}
+      - {x: -9, y: -1}
+      - {x: -5, y: 9}
+      - {x: -5, y: 37}
+      - {x: -11, y: 48}
+    - - {x: 12, y: 48}
+      - {x: 6, y: 41}
+      - {x: 6, y: 10}
+      - {x: 7, y: 4}
+      - {x: 13, y: -2}
+      - {x: 59, y: -2}
+      - {x: 59, y: 42}
+      - {x: 55, y: 48}
+    - - {x: 73, y: 48}
+      - {x: 71, y: 47}
+      - {x: 68, y: 42}
+      - {x: 68, y: 18}
+      - {x: 76, y: -2}
+      - {x: 86, y: -2}
+      - {x: 87, y: -1}
+      - {x: 91, y: 11}
+      - {x: 91, y: 34}
+      - {x: 84, y: 48}
+    - - {x: 120, y: 46}
+      - {x: 105, y: 46}
+      - {x: 102, y: 37}
+      - {x: 102, y: 8}
+      - {x: 108, y: -2}
+      - {x: 120, y: -2}
+      - {x: 128, y: 20}
+      - {x: 129, y: 23}
+      - {x: 129, y: 40}
+    - - {x: 131, y: 48}
+      - {x: 131, y: 3}
+      - {x: 138, y: -2}
+      - {x: 149, y: -2}
+      - {x: 155, y: 13}
+      - {x: 155, y: 35}
+      - {x: 150, y: 48}
+    - - {x: -154, y: 103}
+      - {x: -155, y: 101}
+      - {x: -155, y: 62}
+      - {x: -133, y: 62}
+      - {x: -131, y: 65}
+      - {x: -131, y: 87}
+      - {x: -139, y: 103}
+    - - {x: -109, y: 103}
+      - {x: -118, y: 98}
+      - {x: -122, y: 73}
+      - {x: -122, y: 62}
+      - {x: -99, y: 62}
+      - {x: -99, y: 103}
+    - - {x: -87, y: 100}
+      - {x: -90, y: 82}
+      - {x: -90, y: 62}
+      - {x: -72, y: 62}
+      - {x: -68, y: 63}
+      - {x: -62, y: 71}
+      - {x: -62, y: 100}
+    - - {x: -36, y: 97}
+      - {x: -41, y: 98}
+      - {x: -47, y: 98}
+      - {x: -58, y: 89}
+      - {x: -58, y: 62}
+      - {x: -40, y: 62}
+      - {x: -38, y: 64}
+      - {x: -31, y: 72}
+      - {x: -31, y: 82}
+    - - {x: -20, y: 100}
+      - {x: -25, y: 99}
+      - {x: -29, y: 75}
+      - {x: -29, y: 62}
+      - {x: -6, y: 62}
+      - {x: -6, y: 94}
+      - {x: -13, y: 100}
+    - - {x: 33, y: 81}
+      - {x: 35, y: 62}
+      - {x: 57, y: 62}
+      - {x: 58, y: 66}
+      - {x: 58, y: 92}
+      - {x: 54, y: 100}
+      - {x: 10, y: 100}
+      - {x: 3, y: 93}
+      - {x: 3, y: 62}
+      - {x: 23, y: 62}
+      - {x: 28, y: 73}
+      - {x: 26, y: 78}
+      - {x: 23, y: 81}
+    - - {x: 75, y: 100}
+      - {x: 71, y: 99}
+      - {x: 67, y: 94}
+      - {x: 67, y: 62}
+      - {x: 90, y: 62}
+      - {x: 90, y: 89}
+      - {x: 82, y: 100}
+    - - {x: 109, y: 98}
+      - {x: 99, y: 88}
+      - {x: 99, y: 62}
+      - {x: 121, y: 62}
+      - {x: 129, y: 82}
+      - {x: 129, y: 90}
+      - {x: 120, y: 98}
+    - - {x: 133, y: 100}
+      - {x: 133, y: 62}
+      - {x: 155, y: 62}
+      - {x: 156, y: 64}
+      - {x: 156, y: 93}
+      - {x: 154, y: 100}
+    - - {x: -158, y: 177}
+      - {x: -160, y: 174}
+      - {x: -160, y: 126}
+      - {x: -138, y: 126}
+      - {x: -138, y: 174}
+      - {x: -143, y: 177}
+    - - {x: -113, y: 176}
+      - {x: -121, y: 172}
+      - {x: -126, y: 142}
+      - {x: -126, y: 129}
+      - {x: -124, y: 126}
+      - {x: -104, y: 126}
+      - {x: -104, y: 176}
+    - - {x: -85, y: 171}
+      - {x: -86, y: 170}
+      - {x: -94, y: 133}
+      - {x: -94, y: 127}
+      - {x: -92, y: 126}
+      - {x: -73, y: 126}
+      - {x: -62, y: 150}
+      - {x: -62, y: 171}
+    - - {x: -36, y: 168}
+      - {x: -50, y: 168}
+      - {x: -62, y: 144}
+      - {x: -62, y: 128}
+      - {x: -60, y: 126}
+      - {x: -30, y: 126}
+      - {x: -30, y: 161}
+      - {x: -35, y: 167}
+    - - {x: -24, y: 173}
+      - {x: -31, y: 168}
+      - {x: -31, y: 126}
+      - {x: -8, y: 126}
+      - {x: -8, y: 172}
+      - {x: -9, y: 173}
+    - - {x: 21, y: 168}
+      - {x: 14, y: 168}
+      - {x: 4, y: 156}
+      - {x: -1, y: 133}
+      - {x: -1, y: 127}
+      - {x: 1, y: 126}
+      - {x: 27, y: 126}
+      - {x: 34, y: 147}
+      - {x: 34, y: 163}
+    - - {x: 54, y: 173}
+      - {x: 45, y: 173}
+      - {x: 34, y: 166}
+      - {x: 34, y: 128}
+      - {x: 37, y: 126}
+      - {x: 62, y: 126}
+      - {x: 62, y: 166}
+      - {x: 57, y: 172}
+    - - {x: 64, y: 173}
+      - {x: 63, y: 168}
+      - {x: 63, y: 126}
+      - {x: 85, y: 126}
+      - {x: 87, y: 138}
+      - {x: 87, y: 165}
+      - {x: 79, y: 173}
+    - - {x: 112, y: 168}
+      - {x: 99, y: 157}
+      - {x: 95, y: 133}
+      - {x: 95, y: 129}
+      - {x: 97, y: 126}
+      - {x: 123, y: 126}
+      - {x: 130, y: 145}
+      - {x: 130, y: 164}
+      - {x: 125, y: 168}
+    - - {x: 134, y: 173}
+      - {x: 130, y: 163}
+      - {x: 130, y: 126}
+      - {x: 154, y: 126}
+      - {x: 154, y: 168}
+      - {x: 146, y: 173}
+    - - {x: -141, y: 238}
+      - {x: -148, y: 238}
+      - {x: -154, y: 229}
+      - {x: -154, y: 190}
+      - {x: -133, y: 190}
+      - {x: -132, y: 198}
+      - {x: -132, y: 228}
+      - {x: -137, y: 237}
+    - - {x: -102, y: 190}
+      - {x: -102, y: 237}
+      - {x: -118, y: 237}
+      - {x: -125, y: 223}
+      - {x: -125, y: 208}
+      - {x: -121, y: 192}
+      - {x: -119, y: 190}
+      - {x: -114, y: 190}
+      - {x: -112, y: 192}
+      - {x: -112, y: 195}
+      - {x: -111, y: 190}
+    - - {x: -89, y: 236}
+      - {x: -97, y: 229}
+      - {x: -97, y: 204}
+      - {x: -94, y: 190}
+      - {x: -69, y: 190}
+      - {x: -69, y: 223}
+      - {x: -75, y: 236}
+    - - {x: -36, y: 190}
+      - {x: -36, y: 233}
+      - {x: -37, y: 237}
+      - {x: -52, y: 237}
+      - {x: -58, y: 231}
+      - {x: -58, y: 204}
+      - {x: -57, y: 192}
+      - {x: -55, y: 190}
+      - {x: -50, y: 190}
+      - {x: -48, y: 192}
+      - {x: -48, y: 191}
+      - {x: -45, y: 190}
+    - - {x: -16, y: 234}
+      - {x: -26, y: 227}
+      - {x: -26, y: 190}
+      - {x: -4, y: 190}
+      - {x: -4, y: 225}
+      - {x: -7, y: 234}
+    - - {x: 11, y: 228}
+      - {x: 5, y: 214}
+      - {x: 5, y: 190}
+      - {x: 29, y: 190}
+      - {x: 29, y: 213}
+      - {x: 22, y: 228}
+    - - {x: 55, y: 225}
+      - {x: 52, y: 227}
+      - {x: 45, y: 227}
+      - {x: 41, y: 225}
+      - {x: 34, y: 216}
+      - {x: 34, y: 210}
+      - {x: 35, y: 207}
+      - {x: 34, y: 192}
+      - {x: 34, y: 191}
+      - {x: 36, y: 190}
+      - {x: 58, y: 190}
+      - {x: 61, y: 193}
+      - {x: 61, y: 214}
+    - - {x: 89, y: 221}
+      - {x: 93, y: 227}
+      - {x: 93, y: 231}
+      - {x: 88, y: 240}
+      - {x: 76, y: 240}
+      - {x: 69, y: 235}
+      - {x: 69, y: 190}
+      - {x: 83, y: 190}
+      - {x: 93, y: 209}
+      - {x: 93, y: 217}
+    - - {x: 141, y: 237}
+      - {x: 137, y: 229}
+      - {x: 137, y: 203}
+      - {x: 143, y: 190}
+      - {x: 153, y: 190}
+      - {x: 158, y: 204}
+      - {x: 158, y: 230}
+      - {x: 152, y: 237}
+    - - {x: 123, y: 236}
+      - {x: 119, y: 237}
+      - {x: 111, y: 237}
+      - {x: 105, y: 230}
+      - {x: 105, y: 192}
+      - {x: 121, y: 192}
+      - {x: 126, y: 194}
+      - {x: 126, y: 231}
+    - - {x: -152, y: 303}
+      - {x: -155, y: 276}
+      - {x: -155, y: 254}
+      - {x: -135, y: 254}
+      - {x: -135, y: 290}
+      - {x: -139, y: 303}
+    - - {x: -109, y: 303}
+      - {x: -116, y: 303}
+      - {x: -122, y: 290}
+      - {x: -122, y: 254}
+      - {x: -100, y: 254}
+      - {x: -100, y: 288}
+      - {x: -105, y: 301}
+    - - {x: -75, y: 303}
+      - {x: -83, y: 303}
+      - {x: -87, y: 302}
+      - {x: -88, y: 261}
+      - {x: -88, y: 257}
+      - {x: -87, y: 255}
+      - {x: -83, y: 254}
+      - {x: -73, y: 254}
+      - {x: -73, y: 301}
+    - - {x: -46, y: 303}
+      - {x: -50, y: 303}
+      - {x: -54, y: 301}
+      - {x: -54, y: 254}
+      - {x: -45, y: 254}
+      - {x: -41, y: 272}
+      - {x: -41, y: 288}
+      - {x: -43, y: 300}
+    - - {x: -13, y: 303}
+      - {x: -20, y: 303}
+      - {x: -26, y: 290}
+      - {x: -26, y: 254}
+      - {x: -4, y: 254}
+      - {x: -4, y: 288}
+      - {x: -9, y: 301}
+    - - {x: 11, y: 303}
+      - {x: 8, y: 296}
+      - {x: 8, y: 254}
+      - {x: 23, y: 254}
+      - {x: 23, y: 299}
+      - {x: 20, y: 303}
+    - - {x: 50, y: 303}
+      - {x: 43, y: 303}
+      - {x: 42, y: 301}
+      - {x: 42, y: 254}
+      - {x: 51, y: 254}
+      - {x: 54, y: 262}
+      - {x: 54, y: 301}
+    - - {x: 77, y: 300}
+      - {x: 74, y: 299}
+      - {x: 72, y: 281}
+      - {x: 69, y: 267}
+      - {x: 69, y: 254}
+      - {x: 89, y: 254}
+      - {x: 90, y: 261}
+      - {x: 90, y: 283}
+      - {x: 86, y: 300}
+    - - {x: 118, y: 295}
+      - {x: 110, y: 295}
+      - {x: 101, y: 286}
+      - {x: 101, y: 254}
+      - {x: 121, y: 254}
+      - {x: 123, y: 261}
+      - {x: 123, y: 293}
+    - - {x: 150, y: 289}
+      - {x: 142, y: 289}
+      - {x: 133, y: 270}
+      - {x: 133, y: 254}
+      - {x: 153, y: 254}
+      - {x: 157, y: 262}
+      - {x: 157, y: 272}
+      - {x: 153, y: 286}
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

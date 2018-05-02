@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Timer.cs">
+    <Files>
+      <File FileName="Assets\scripts\score.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\platformMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\player_score.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\player_health.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\FinnishBox.cs" Line="7" Column="31" />
+      <File FileName="Assets\scripts\Fire_Collide.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\SoundManagerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Timer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
